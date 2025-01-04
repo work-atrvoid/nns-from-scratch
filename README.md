@@ -1,6 +1,7 @@
 <div align="center"><h1>Logistic Regression Neural Network (From Scratch)</h1></div>
 
 <img src="images/omagad.png" title="" alt="omagad" data-align="left">
+
 [![Python](https://img.shields.io/badge/python-3.11.9-blue)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![GitHub stars](https://img.shields.io/github/stars/work-atrvoid/project-mlp)](https://github.com/work-atrvoid/project-mlp/stargazers)

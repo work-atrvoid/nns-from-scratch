@@ -56,8 +56,6 @@
 
 <div align="center"><h3>Learning Outcomes</h3></div><hr>
 
-This project reinforces the following concepts:
-
 - Forward and backward propagation in neural networks.
 - The mathematical foundation of logistic regression.
 - Implementing a machine learning model without high-level libraries.

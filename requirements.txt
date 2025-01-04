@@ -1,0 +1,6 @@
+scikit-learn==1.5.1
+numpy==1.26.4
+matplotlib==3.9.2
+jupyter==1.0.0
+h5py==3.11.0
+pillow==10.2.0
